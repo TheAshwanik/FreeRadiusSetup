@@ -1,5 +1,5 @@
-
-tall and configure freeradius to use mariadb database (also for managing freeradius, we install daloRADIUS web interface).
+##
+Install and configure freeradius to use mariadb database (also for managing freeradius, we install daloRADIUS web interface).
 ===
 1- Install and setup mariadb
 To install mariadb, we create mariadb repository file and install required packages. here we install mariadb 10.5:
